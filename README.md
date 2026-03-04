@@ -2,265 +2,270 @@
 
 Para os exercícios e atividades da disciplina, é aconselhável realizá-los no caderno.
 
-✅ REQUISITOS BÁSICOS
-🟡 Java — Domínio da Linguagem (JDK 17 ou 21)
+## ✅ REQUISITOS BÁSICOS
+### 🟡 Java — Domínio da Linguagem (JDK 17 ou 21)
 
 Dominar completamente a linguagem Java (sintaxe, APIs principais e boas práticas):
 
-• Fundamentos
+### Fundamentos
 
-Variáveis
+- Variáveis
 
-Tipos (primitivos e não primitivos)
+- Tipos (primitivos e não primitivos)
 
-Funções (Métodos)
+- Funções (Métodos)
 
-Arrays e ArrayList
+- Arrays e ArrayList
 
-Packages e imports
+- Packages e imports
 
-🧱 Orientação a Objetos (OO)
+### 🧱 Orientação a Objetos (OO)
 
-Classes
+- Classes
 
-Objetos
+- Objetos
 
-Métodos
+- Métodos
 
-Construtores
+- Construtores
 
-Encapsulamento
+- Encapsulamento
 
-Herança
+- Herança
 
-Classes abstratas
+- Classes abstratas
 
-Interfaces
+- Interfaces
 
-Polimorfismo
+- Polimorfismo
 
-Abstração
+- Abstração
 
-Enums
+- Enums
 
-Superclasses
+- Superclasses
 
-final
+- final
 
-🧵 Threads e Rotinas (Opcional — aprender pelo menos o básico)
+###🧵 Threads e Rotinas (Opcional — aprender pelo menos o básico)
 
-Thread e concorrência
+- Thread e concorrência
 
-Sincronização
+- Sincronização
 
-🗂️ Collections e Estruturas de Dados
+### 🗂️ Collections e Estruturas de Dados
 
-List, ArrayList, LinkedList
+- List, ArrayList, LinkedList
 
-Stack
+- Stack
 
-Queue
+- Queue
 
-Map e HashMap
+- Map e HashMap
 
-HashSet e LinkedHashSet
+- HashSet e LinkedHashSet
 
-⚙️ Funcionalidades Avançadas
+### ⚙️ Funcionalidades Avançadas
 
-Records
+- Records
 
-Streams
+- Streams
 
-Exceptions (try, catch, throw, throws)
+- Exceptions (try, catch, throw, throws)
 
-Reflection API
+- Reflection API
 
-🟡 INTERFACE GRÁFICA COM JAVA
+### 🟡 INTERFACE GRÁFICA COM JAVA
 
-Domínio do Java Swing para criação de GUIs:
+- Domínio do Java Swing para criação de GUIs:
 
-JFrame, JDialogs, JPanels
+- JFrame, JDialogs, JPanels
 
-Componentes e eventos
+- Componentes e eventos
 
-Layouts e Listeners
+- Layouts e Listeners
 
-🟡 UML (Modelagem com Diagramas)
+### 🟡 UML (Modelagem com Diagramas)
 
-Diagrama de Classes
+- Diagrama de Classes
 
-Diagrama de Sequência
+- Diagrama de Sequência
 
-Diagrama de Estados
+- Diagrama de Estados
 
-📘 REQUISITOS DA DISCIPLINA
-📎 Acoplamento e Coesão
+### 📘 REQUISITOS DA DISCIPLINA
 
-Baixo acoplamento
+- 📎 Acoplamento e Coesão
 
-Alta coesão
+- Baixo acoplamento
 
-→ Código mais modular e de fácil manutenção.
+- Alta coesão
 
-📦 Gerenciador de Dependências
+### → Código mais modular e de fácil manutenção.
 
-Uso do Maven
+-📦 Gerenciador de Dependências
 
-Configuração do pom.xml
+- Uso do Maven
 
-Instalação e ciclo de vida do projeto
+- Configuração do pom.xml
+
+- Instalação e ciclo de vida do projeto
 
 🔠 Princípios SOLID
 
-SRP — Single Responsibility
+- SRP — Single Responsibility
 
-OCP — Open/Closed
+- OCP — Open/Closed
 
-LSP — Liskov Substitution
+- LSP — Liskov Substitution
 
-ISP — Interface Segregation
+- ISP — Interface Segregation
 
-DIP — Dependency Inversion
+- DIP — Dependency Inversion
 
-🔁 Outros Princípios
+### 🔁 Outros Princípios
 
-DRY — Don't Repeat Yourself
+- DRY — Don't Repeat Yourself
 
-Lei de Demeter
+- Lei de Demeter
 
-🧠 PADRÕES DE PROJETO (GoF)
-🏗️ Criacionais
+### 🧠 PADRÕES DE PROJETO (GoF)
 
-Singleton
+#### 🏗️ Criacionais
 
-Factory Method
+- Singleton
 
-Abstract Factory
+- Factory Method
 
-Builder
+- Abstract Factory
 
-🧱 Estruturais
+- Builder
 
-Adapter
+#### 🧱 Estruturais
 
-Proxy
+- Adapter
 
-Façade
+- Proxy
 
-Composite
+- Façade
 
-Decorator
+- Composite
 
-🧩 Comportamentais
+- Decorator
 
-Strategy
+### 🧩 Comportamentais
 
-Chain of Responsibility
+- Strategy
 
-Observer
+- Chain of Responsibility
 
-Command
+- Observer
 
-Memento
+- Command
 
-State
+- Memento
 
-Template Method
+- State
 
-📦 Outros Úteis
+- Template Method
 
-DAO
+### 📦 Outros Úteis
 
-Repository
+- DAO
+  
+- Repository
 
-Prototype
+- Prototype
 
-Flyweight
+- Flyweight
 
-🛠️ REQUISITOS ADICIONAIS
-⚙️ Maven
+### 🛠️ REQUISITOS ADICIONAIS
 
-Instalação e configuração
+- ⚙️ Maven
 
-Build, execução e testes
+- Instalação e configuração
 
-🌱 Git e GitHub
+- Build, execução e testes
 
-Versionamento básico
+### 🌱 Git e GitHub
 
-Branches, commits e pull requests
+- Versionamento básico
 
-Projetos privados
+- Branches, commits e pull requests
 
-Adicionar o professor como colaborador
+- Projetos privados
 
-🗃️ Banco de Dados e Persistência
+- Adicionar o professor como colaborador
 
-SQLite
+### 🗃️ Banco de Dados e Persistência
 
-H2
+- SQLite
 
-MySQL (JDBC)
+- H2
 
-CRUD
+- MySQL (JDBC)
 
-Aplicação dos padrões DAO e Repository
+- CRUD
 
-📊 Logging
+- Aplicação dos padrões DAO e Repository
 
-Escrita e leitura de logs
+### 📊 Logging
 
-Formatos: JSON, XML, CSV ou Banco de Dados
+- Escrita e leitura de logs
 
-🧪 Variáveis de Ambiente
+- Formatos: JSON, XML, CSV ou Banco de Dados
 
-Uso de .env com bibliotecas como dotenv-java
+### 🧪 Variáveis de Ambiente
 
-💡 DICAS IMPORTANTES
-📆 Rotina de Estudos
+- Uso de .env com bibliotecas como dotenv-java
 
-Revisar o conteúdo na mesma semana
+### 💡 DICAS IMPORTANTES
 
-Fazer exercícios no caderno
+#### 📆 Rotina de Estudos
 
-Focar em entender o problema e sua melhor solução
+- Revisar o conteúdo na mesma semana
 
-🧪 Provas
+- Fazer exercícios no caderno
 
-Pode usar //getters ou //setters (se todos forem usados)
+- Focar em entender o problema e sua melhor solução
 
-Implementar corretamente métodos específicos
+#### 🧪 Provas
 
-Priorizar questões com maior valor e menor dificuldade
+- Pode usar //getters ou //setters (se todos forem usados)
 
-🧩 Trabalhos
+- Implementar corretamente métodos específicos
 
-Criar repositórios privados no GitHub
+- Priorizar questões com maior valor e menor dificuldade
 
-Adicionar o professor como colaborador
+#### 🧩 Trabalhos
 
-Planejar desde o início:
+- Criar repositórios privados no GitHub
 
-Estrutura do banco
+- Adicionar o professor como colaborador
 
-Arquitetura do sistema
+##### Planejar desde o início:
 
-Divisão correta da equipe
+- Estrutura do banco
 
-⚠️ O projeto pode ultrapassar 100 classes — não deixe para a última hora.
+- Arquitetura do sistema
 
-🖥️ RECURSOS DE APOIO
-💻 Laboratório
+- Divisão correta da equipe
 
-Java 17 ou 21 (JDK)
+  ⚠️ O projeto pode ultrapassar 100 classes — não deixe para a última hora.
 
-NetBeans, VS Code, Eclipse ou IntelliJ
+#### 🖥️ RECURSOS DE APOIO
 
-Astah Community
+##### 💻 Laboratório
 
-GitHub ou GitLab
+- Java 17 ou 21 (JDK)
 
-📚 REFERÊNCIAS E LIVROS
+- NetBeans, VS Code, Eclipse ou IntelliJ
+
+- Astah Community
+
+- GitHub ou GitLab
+
+#### 📚 REFERÊNCIAS E LIVROS
 
 Clean Code — Robert C. Martin
 
