@@ -3,11 +3,12 @@
 Para os exercícios e atividades da disciplina, é aconselhável realizá-los no caderno.
 
 ## ✅ REQUISITOS BÁSICOS
-### 🟡 Java — Domínio da Linguagem (JDK 17 ou 21)
+
+#### 🟡 Java — Domínio da Linguagem (JDK 17 ou 21)
 
 Dominar completamente a linguagem Java (sintaxe, APIs principais e boas práticas):
 
-### Fundamentos
+#### Fundamentos
 
 - Variáveis
 
@@ -19,7 +20,7 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - Packages e imports
 
-### 🧱 Orientação a Objetos (OO)
+#### 🧱 Orientação a Objetos (OO)
 
 - Classes
 
@@ -47,13 +48,13 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - final
 
-###🧵 Threads e Rotinas (Opcional — aprender pelo menos o básico)
+#### 🧵 Threads e Rotinas (Opcional — aprender pelo menos o básico)
 
 - Thread e concorrência
 
 - Sincronização
 
-### 🗂️ Collections e Estruturas de Dados
+#### 🗂️ Collections e Estruturas de Dados
 
 - List, ArrayList, LinkedList
 
@@ -65,7 +66,7 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - HashSet e LinkedHashSet
 
-### ⚙️ Funcionalidades Avançadas
+#### ⚙️ Funcionalidades Avançadas
 
 - Records
 
@@ -75,7 +76,7 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - Reflection API
 
-### 🟡 INTERFACE GRÁFICA COM JAVA
+#### 🟡 INTERFACE GRÁFICA COM JAVA
 
 - Domínio do Java Swing para criação de GUIs:
 
@@ -85,7 +86,7 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - Layouts e Listeners
 
-### 🟡 UML (Modelagem com Diagramas)
+#### 🟡 UML (Modelagem com Diagramas)
 
 - Diagrama de Classes
 
@@ -93,17 +94,17 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - Diagrama de Estados
 
-### 📘 REQUISITOS DA DISCIPLINA
+## 📘 REQUISITOS DA DISCIPLINA
 
-- 📎 Acoplamento e Coesão
+### 📎 Acoplamento e Coesão
 
 - Baixo acoplamento
 
 - Alta coesão
 
-### → Código mais modular e de fácil manutenção.
+- → Código mais modular e de fácil manutenção.
 
--📦 Gerenciador de Dependências
+### 📦 Gerenciador de Dependências
 
 - Uso do Maven
 
@@ -111,7 +112,7 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - Instalação e ciclo de vida do projeto
 
-🔠 Princípios SOLID
+### 🔠 Princípios SOLID
 
 - SRP — Single Responsibility
 
@@ -179,7 +180,7 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - Flyweight
 
-### 🛠️ REQUISITOS ADICIONAIS
+## 🛠️ REQUISITOS ADICIONAIS
 
 - ⚙️ Maven
 
@@ -219,7 +220,7 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - Uso de .env com bibliotecas como dotenv-java
 
-### 💡 DICAS IMPORTANTES
+## 💡 DICAS IMPORTANTES
 
 #### 📆 Rotina de Estudos
 
@@ -253,7 +254,7 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
   ⚠️ O projeto pode ultrapassar 100 classes — não deixe para a última hora.
 
-#### 🖥️ RECURSOS DE APOIO
+## 🖥️ RECURSOS DE APOIO
 
 ##### 💻 Laboratório
 
@@ -265,20 +266,20 @@ Dominar completamente a linguagem Java (sintaxe, APIs principais e boas prática
 
 - GitHub ou GitLab
 
-#### 📚 REFERÊNCIAS E LIVROS
+## 📚 REFERÊNCIAS E LIVROS
 
-Clean Code — Robert C. Martin
+- Clean Code — Robert C. Martin
 
-Effective Java — Joshua Bloch
+- Effective Java — Joshua Bloch
 
-Design Patterns (GoF) — Gamma et al.
+- Design Patterns (GoF) — Gamma et al.
 
-UML Essencial — Martin Fowler
+- UML Essencial — Martin Fowler
 
-Engenharia de Software — Sommerville
+- Engenharia de Software — Sommerville
 
-Refactoring.Guru
+- Refactoring.Guru
 
-Documentação oficial do Java
+- Documentação oficial do Java
 
-Tutoriais de Maven e Git
+- Tutoriais de Maven e Git
